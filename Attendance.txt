@@ -1,4 +1,5 @@
+Date : 08-Dec-2022
 Student ID : 2213111178
 Fullname : Suthichai Mukchokwattana
 AKA : SukSuk555
-ClassDetail : Lab Sheet 4 : String Method and Defined Metl
+ClassDetail : User-Defined Method with String
