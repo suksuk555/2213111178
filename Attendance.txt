@@ -1,5 +1,5 @@
-Date : 22-Dec-2022
+Date : 12-Jab-2023
 Student ID : 2213111178
 Fullname : Suthichai Mukchokwattana
 AKA : SukSuk555
-ClassDetail :  Lab Sheet 7 : Class and Object, Array of Object
+ClassDetail : GUI
