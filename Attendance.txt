@@ -1,5 +1,5 @@
-Date : 26-Jan-2023
+Date : 02-Feb-2023
 Student ID : 2213111178
 Fullname : Suthichai Mukchokwattana
 AKA : SukSuk555
-ClassDetail : Lab Sheet 9 : Composition and Inheritance
+ClassDetail :  Lab Sheet 10 : Inheritance and Polymor
