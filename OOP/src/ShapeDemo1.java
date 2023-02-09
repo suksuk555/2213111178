@@ -15,8 +15,10 @@ public class ShapeDemo1 {
 		
 		Cylinder cy1 = new Cylinder(radius,height);
 		System.out.println("Cylinder"+cy1);
-		System.out.println("Circle"+cy1.getArea());
+		System.out.println("Cylinder"+cy1.getArea());
+		System.out.println("Cylinder"+cy1.getVolum());
 
+		
 	}
 
 }

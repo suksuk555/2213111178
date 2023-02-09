@@ -12,4 +12,4 @@ public abstract class Shape {
 	public  String toString() {
 		return "color ="+this.color;
 	}
-}
+}//
